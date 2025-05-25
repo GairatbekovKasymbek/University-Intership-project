@@ -87,10 +87,15 @@ auto detect bad list websites and warning via modal (popup) window
 ## 🗂 Project Structure
 
 email-phishing-detector/
+
 ├── manifest.json         # Chrome extension config
+
 ├── popup.html            # Extension UI
+
 ├── popup.js              # Frontend logic
+
 ├── content.js            # Email scanning logic (injected)
+
 └── images/               # Icons and visual assets
 
 ## 🧠 Detection Logic
