@@ -97,6 +97,10 @@ email-phishing-detector/
 ├── content.js            # Email scanning logic (injected)
 
 └── images/               # Icons and visual assets
++++
+├── background.js         # functionality related to URL checking and modal window for URL
+
+├── badsites.json         # list to compare URLs 
 
 ## 🧠 Detection Logic
 The extension scans emails for:
