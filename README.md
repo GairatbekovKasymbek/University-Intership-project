@@ -1,6 +1,6 @@
-# 🛡️ Email Phishing Detector — Chrome Extension
+# 🛡 Phishing Detector — Chrome Extension
 
-**Email Phishing Detector** is a Chrome extension designed to help users quickly identify and understand potential phishing threats within their emails AND detect bad websites from local storage. Using lightweight analysis methods, visual indicators, and user-friendly design, the extension makes email protection simple and accessible.
+Email Phishing Detector is a Chrome extension designed to help users quickly identify and understand potential phishing threats within their emails AND detect bad websites from local storage. Using lightweight analysis methods, visual indicators, and user-friendly design, the extension makes email protection simple and accessible.
 
 > 📌 *With phishing scams becoming increasingly common in Kyrgyzstan and globally, this tool offers a practical and accessible solution for staying secure online.*
 
@@ -30,9 +30,9 @@ Users can easily switch between languages from the interface.
 
 ### 🎯 Risk Level Classification
 - Emails are labeled with one of three levels:
-  - 🔴 **High Risk** – Very likely a phishing attempt
-  - 🟡 **Suspicious** – Needs careful attention
-  - 🟢 **Low Risk** – No immediate concerns
+  - 🔴 High Risk – Very likely a phishing attempt
+  - 🟡 Suspicious – Needs careful attention
+  - 🟢 Low Risk – No immediate concerns
 
 ### 💬 Interactive Feedback
 - Highlights detected issues directly in the email
@@ -84,7 +84,7 @@ Tailored recommendations
 auto detect bad list websites and warning via modal (popup) window
 
 
-## 🗂️ Project Structure
+## 🗂 Project Structure
 
 email-phishing-detector/
 ├── manifest.json         # Chrome extension config
@@ -134,4 +134,4 @@ No third-party tracking or analytics
 
 We welcome contributions and ideas!
 Reach out via: burglarbarrelrider@gmail.com
-# 🛡️ Stay safe, stay informed — protect yourself from phishing with just one click!
+# 🛡 Stay safe, stay informed — protect yourself from phishing with just one click!
