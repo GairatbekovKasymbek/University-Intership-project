@@ -143,6 +143,9 @@ No third-party tracking or analytics
 
  Exportable scan reports (PDF, CSV) 
 
+## Market Research Part 1. 
+https://docs.google.com/spreadsheets/d/1-t62bsJinHEp0lf5ty-3xosmpdGWs-Av/edit?usp=drive_link&ouid=114120819325781297199&rtpof=true&sd=true
+
 We welcome contributions and ideas!
 Reach out via: burglarbarrelrider@gmail.com
 # 🛡 Stay safe, stay informed — protect yourself from phishing with just one click!
